@@ -1,0 +1,31 @@
+.layer{
+    height:850px;
+    width:550px;
+    background:red;
+   margin:auto;
+    border:1px solid black;
+}
+.calcbody{
+    background-color: antiquewhite;
+    height:800px;
+    width:500px;
+    margin-left:25px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.outout{
+    margin-top:20px;
+    margin-left:15px;
+    height:150px;
+    width:470px;
+    background-color: rebeccapurple;
+    font-size:50px;
+
+}
+
+button{
+    height:100px;
+    width:100px;
+    background-color:aqua;
+    margin:10px;
+}
